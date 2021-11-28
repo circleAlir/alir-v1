@@ -1,0 +1,7 @@
+[submodule "themes/personal-site"]
+	path = themes/personal-site
+	url = https://github.com/wisnuwiry/personal-site
+[submodule "themes/alir-site"]
+	path = themes/alir-site
+	url = https://github.com/circleAlir/alir-site.git
+	branch = master
