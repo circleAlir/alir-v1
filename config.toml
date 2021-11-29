@@ -1,22 +1,22 @@
 baseURL                       = "https://circlealir.netlify.app/"
 languageCode                  = "id"
 title                         = "Wisnuwiry"
-theme                         = "alir-site"
+theme                         = "alir-siteV2"
 summaryLength                 = 10
 
 [Author] # Used in authorbox
-  name                        = "Wisnu G. Saputra"
-  bio                         = "Flutter | Mobile Tech Enthusiast | Software Engineer at KodingWorks. Saya juga suka blogging dan mempelajari hal teknologi baru."
+  name                        = "Salman Fauzi"
+  bio                         = "Programmer Amatiran."
   avatar                      = "img/avatar.webp"
   job                         = "Software Engineer"
   gender                      = "male"
-  email                       = "wisnuwiry@gmail.com"
+  email                       = "salmanfauzi2003@gmail.com"
   donate                      = true
   
 [Params]
-  description                 = "Sebuah catatan dan blog pribadi saya. Saya juga akan membagi tentang pengalaman saya dan teknologi-teknolgi yang saya gunakan/pelajari atau yang sedang populer." # Site Description. Used in meta description
+  description                 = "THE CIRCLE." # Site Description. Used in meta description
   images                      = ["img/avatar.webp"]
-  copyright                   = "Wisnuwiry" # Copyright holder, otherwise will use .Site.Title
+  copyright                   = "CIRCLE ALIR" # Copyright holder, otherwise will use .Site.Title
   opengraph                   = true # Enable OpenGraph if true
   twitter_cards               = true # Enable Twitter Cards if true
   mainSections                = ["post", "snippet"] # Set main page sections
@@ -59,7 +59,7 @@ summaryLength                 = 10
   previewOnly                 = false # Show only preview featured image
 
 [Params.Comments]
-  repository                  = "wisnuwiry/blog-v2"
+  repository                  = "circleAlir/alir-v1"
 
 # Navigation bar
 [menu]
@@ -99,13 +99,13 @@ weight = 5
   homeText                    = "Home" # Home node text
 
 [Params.Social]
-  twitter                     = "wisnuwiry"
-  telegram                    = "wisnuwiry"
-# instagram                   = "wisnuwiry"
-  linkedin                    = "wisnu-saputra"
-  github                      = "wisnuwiry"
-  gitlab                      = "wisnuwiry"
-  medium                      = "wisnuwiry"
+  twitter                     = "the circle"
+  telegram                    = "the circle"
+  instagram                   = "the circle"
+  linkedin                    = "circle"
+#  github                      = "the circle"
+#  gitlab                      = "the circle"
+#  medium                      = "the circle"
 
 [Params.Share] # Entry Share block
   facebook                    = true
@@ -124,7 +124,7 @@ weight = 5
   display                     = "standalone"
   startUrl                    = "/?utm_source=homescreen"
   backgroundColor             = "#8dc153"
-  themeColor                  = "#1da1f2"
+  themeColor                  = "#008080"
   description                 = "Personal Site By Wisnuwiry"
   orientation                 = "portrait"
   scope                       = "/"
