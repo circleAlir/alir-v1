@@ -119,8 +119,8 @@ weight = 5
 # https://www.w3.org/TR/appmanifest/
 # https://developers.google.com/web/fundamentals/web-app-manifest/
 [Params.Manifest]
-  name                        = "Wisnuwiry"
-  shortName                   = "Wisnuwiry"
+  name                        = "Circle Alir"
+  shortName                   = "Circle Alir"
   display                     = "standalone"
   startUrl                    = "/?utm_source=homescreen"
   backgroundColor             = "#8dc153"
