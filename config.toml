@@ -1,7 +1,7 @@
 baseURL                       = "https://circlealir.netlify.app/"
 languageCode                  = "id"
 title                         = "Wisnuwiry"
-theme                         = "alir-siteV2"
+theme                         = "alir-siteV3"
 summaryLength                 = 10
 
 [Author] # Used in authorbox

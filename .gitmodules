@@ -9,3 +9,7 @@
 	path = themes/alir-siteV2
 	url = https://github.com/circleAlir/alir-siteV2.git
 	branch = master
+[submodule "themes/alir-siteV3"]
+	path = themes/alir-siteV3
+	url = https://github.com/circleAlir/alir-siteV3.git
+	branch = master
