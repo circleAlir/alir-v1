@@ -1,7 +1,7 @@
 baseURL                       = "https://circlealir.netlify.app/"
 languageCode                  = "id"
 title                         = "Wisnuwiry"
-theme                         = "alir-siteV3"
+theme                         = "alir-siteV4"
 summaryLength                 = 10
 
 [Author] # Used in authorbox
@@ -123,7 +123,7 @@ weight = 5
   shortName                   = "Circle Alir"
   display                     = "standalone"
   startUrl                    = "/?utm_source=homescreen"
-  backgroundColor             = "#8dc153"
+  backgroundColor             = "#029efd"
   themeColor                  = "#008080"
   description                 = "Personal Site By Wisnuwiry"
   orientation                 = "portrait"
