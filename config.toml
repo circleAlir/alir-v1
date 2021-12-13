@@ -1,6 +1,6 @@
 baseURL                       = "https://circlealir.netlify.app/"
 languageCode                  = "id"
-title                         = "Wisnuwiry"
+title                         = "Circle Alir"
 theme                         = "alir-siteV4"
 summaryLength                 = 10
 
@@ -42,9 +42,9 @@ summaryLength                 = 10
   # adsenseId                   = "ca-pub-6496667754181154"
   customSearchId              = "004021659876411083349:a2ysxpichpc"
   endMessagePost              = "Terdapat kesalahan penulisan, typo, ataupun juga kurang sesuai dalam penulisan, bantu Saya"
-  editContentPageLink         = "https://github.com/wisnuwiry/blog-v2/edit/master/content/"
+  editContentPageLink         = "https://ichirakuramen.nasihosting.com"
   formspreeId                 = "xjvperzz"
-  subTitle                      = "Personal site, Blog, and Portfolio"
+  subTitle                      = "Circle Alir"
 
 [Params.Hero]
   title                       = "CIRCLE ALIR"
@@ -125,7 +125,7 @@ weight = 5
   startUrl                    = "/?utm_source=homescreen"
   backgroundColor             = "#029efd"
   themeColor                  = "#008080"
-  description                 = "Personal Site By Wisnuwiry"
+  description                 = "Circle Alir"
   orientation                 = "portrait"
   scope                       = "/"
 
