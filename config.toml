@@ -7,7 +7,7 @@ summaryLength                 = 10
 [Author] # Used in authorbox
   name                        = "Salman Fauzi"
   bio                         = "Programmer Amatiran | Seorang tukang ketik di Circle Alir"
-  avatar                      = "image/IMG_20211218_171249.jpeg"
+  avatar                      = "img/avatar.webp"
   job                         = "Tukang Ketik"
   gender                      = "male"
   email                       = "salmanfauzi2003@gmail.com"
