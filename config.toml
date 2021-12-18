@@ -6,9 +6,9 @@ summaryLength                 = 10
 
 [Author] # Used in authorbox
   name                        = "Salman Fauzi"
-  bio                         = "Programmer Amatiran."
-  avatar                      = "img/avatar.webp"
-  job                         = "Software Engineer"
+  bio                         = "Programmer Amatiran | Seorang tukang ketik di Circle Alir"
+  avatar                      = "image/IMG_20211218_171249.jpeg"
+  job                         = "Tukang Ketik"
   gender                      = "male"
   email                       = "salmanfauzi2003@gmail.com"
   donate                      = true
@@ -44,7 +44,7 @@ summaryLength                 = 10
   endMessagePost              = "Terdapat kesalahan penulisan, typo, ataupun juga kurang sesuai dalam penulisan, bantu Saya"
   editContentPageLink         = "https://ichirakuramen.nasihosting.com"
   formspreeId                 = "xjvperzz"
-  subTitle                      = "Circle Alir"
+  subTitle                      = "|| Belajar dan Sharing"
 
 [Params.Hero]
   title                       = "CIRCLE ALIR"
