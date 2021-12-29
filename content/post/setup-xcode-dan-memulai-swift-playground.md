@@ -27,6 +27,8 @@ Dan Anda juga dapat install secara manual dengan mendownload app dari [Apple Dev
 
 Atau jika Anda ingin install Xcode dengan spesifik versi yang Anda inginkan bisa kunjungi [tautan berikut](https://developer.apple.com/download/more/). Anda bisa mendownload versi-versi Xcode yang sebelumnya pernah di release oleh Apple. Cara berikut memungkinkan terjadi bila device Anda tidak mendukung versi terbaru saat ini.
 
+<!--adsense-->
+
 ## Memulai Swift Playground
 
 Setelah selesai proses penginstalan app Xcode. Anda perlu membuka aplikasi Xcode yang terinstal pada Mac Device Anda. Dan ketika buka pertama kali akan muncul welcome screen seperti ini:

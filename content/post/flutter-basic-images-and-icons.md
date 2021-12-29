@@ -9,6 +9,8 @@ title = "Flutter Basic Images and Icons"
 +++
 Membuat design User Interface yang bagus dang menarik pada aplikasi Flutter Anda dengan menampilkan beragam gambar dan icon? Anda tidak perlu masalah dengan implementasinya, di **Flutter** semuat tersebut di dukung secara penuh oleh **Flutter SDK**.
 
+<!--adsense-->
+
 Pada artikel kali ini Saya akan bahas beberapa tentang Images(Gambar) dan Icons yang secara default sudah di sediakan oleh Flutter SDK.  Berikut beberapa penjelasan-penjelasnya:
 
 ## Images

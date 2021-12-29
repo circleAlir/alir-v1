@@ -13,6 +13,8 @@ Ketika membuat sebuah aplikasi Flutter kadang perlu juga kita mengetahui informa
 
 Misal jika Anda ingin implementasi cek versi terbaru aplikasi Anda yang digunakan oleh user, sudah pasti Anda perlu cek terlebih dahulu versi aplikasi yang digunakan user sekarang itu berapa, dan aplikasi terbaru itu berapa.
 
+<!--adsense-->
+
 Untuk implementasi ambil data package name dan version dari Flutter kita tidak perlu manual intregrasikan per item plaform misal dalam kasus ini Android dan IOS. Sekarang pada https://pub.dev telah menyediakan library untuk mengetahui informasi app dari native platform yang bernama **package_info**. Untuk mengetahui beberapa informasi mengenai packageinfo bisa lihat di [offical documentasinya](https://pub.dev/packages/package_info). Pada saat ini (ketika saya tulis artikel ini) library ini hanya support pada platform Android & IOS saja.
 
 ## Fitur Package Info

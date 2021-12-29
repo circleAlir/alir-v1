@@ -1,12 +1,12 @@
 baseURL                       = "https://circlealir.netlify.app/"
 languageCode                  = "id"
 title                         = "Circle Alir"
-theme                         = "alir-siteV4"
+theme                         = "alir-siteV5"
 summaryLength                 = 10
 
 [Author] # Used in authorbox
   name                        = "Salman Fauzi"
-  bio                         = "Programmer Amatiran | Seorang tukang ketik di Circle Alir"
+  bio                         = "Programmer Amatiran | tukang ketiknya Circle Alir"
   avatar                      = "img/avatar.webp"
   job                         = "Tukang Ketik"
   gender                      = "male"
@@ -39,12 +39,16 @@ summaryLength                 = 10
   fb_admins                   = 100023577212451
   fb_app_id                   = 192065405413624
   paginateLength              = 5
-  # adsenseId                   = "ca-pub-6496667754181154"
+  adsenseId                   = "ca-pub-5777839555872143"
   customSearchId              = "004021659876411083349:a2ysxpichpc"
   endMessagePost              = "Terdapat kesalahan penulisan, typo, ataupun juga kurang sesuai dalam penulisan, bantu Saya"
   editContentPageLink         = "https://ichirakuramen.nasihosting.com"
   formspreeId                 = "xjvperzz"
   subTitle                      = "|| Belajar dan Sharing"
+
+[params.adsense]
+  client = "ca-pub-5777839555872143"
+  inArticleSlot = "1374668603"
 
 [Params.Hero]
   title                       = "CIRCLE ALIR"
