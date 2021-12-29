@@ -46,7 +46,7 @@ summaryLength                 = 10
   formspreeId                 = "xjvperzz"
   subTitle                      = "|| Belajar dan Sharing"
 
-[params.adsense]
+[Params.Adsense]
   client = "ca-pub-5777839555872143"
   inArticleSlot = "1374668603"
 
